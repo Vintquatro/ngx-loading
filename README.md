@@ -1,4 +1,4 @@
-# ngx-loading
+# ngx-loading for Angular 19
 
 A customisable loading spinner for Angular applications.
 
